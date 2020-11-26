@@ -1,6 +1,6 @@
 <!--
 Event: [Angular Athens - 2nd workshop: Contriguting to Angular](https://www.meetup.com/Angular-Athens)
-Date: 2020-10-13
+Date: 2020-10-13, 2020-11-26
 Instructor: [George Kalpakas](https://twitter.com/gkalpakas)
 -->
 
@@ -135,6 +135,8 @@ Below is an overview of the process of creating and submitting a PR. For more de
 
 You can freely choose what kind of contribution you want to work on.<br />
 _(For the workshop, we are sticking to the `angular/angular` repo.)_
+
+Issues labelled as [hotlist: community-help](https://github.com/angular/angular/issues?q=is%3Aopen+is%3Aissue+label%3A%22hotlist%3A+community-help%22) are good candidates for contributions from the community.
 
 Since there are currently over 2500 issues on `angular/angular` (:sweat_smile:), we have put together a [curated list of issues](https://github.com/angularathens/2nd-workshop-angular-contrib/issues) that we consider suitable for first-time contributors.
 
